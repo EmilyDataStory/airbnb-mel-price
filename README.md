@@ -28,8 +28,6 @@ Here’s a directory for your blog with links to the sections:
 
 ---
 
-You can add this directory to the top of your blog to help readers navigate easily!
-
 ## Project Overview
 This project builds a predictive model to estimate Airbnb prices in Melbourne, Australia, using data from September 2024. By analysing property features, location, host details, and listing information, we identify key features associated with price variation. 
 
