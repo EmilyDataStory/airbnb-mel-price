@@ -344,6 +344,7 @@ This project successfully developed a predictive model for Airbnb prices in Melb
 
 ---
 ## Repository Contents
+Follow this [link](https://1drv.ms/f/s!AqwpQUCL5P1ziKYKJ7H2CfkA93S27g?e=gAKfTx) to my OneDrive folder to access all the files.
 
 - **Jupyter Notebooks**:  
   - `airbnb_mel_01_preprocess.ipynb`  
