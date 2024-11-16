@@ -6,7 +6,6 @@ Here’s a directory for your blog with links to the sections:
 
 ## Directory
 
-- [Predicting Rental Prices](#predicting-rental-prices)  
 - [Project Overview](#project-overview)  
 - [Business Context](#business-context)  
 - [Dataset](#dataset)  
