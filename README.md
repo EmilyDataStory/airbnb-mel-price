@@ -1,5 +1,6 @@
 # Predicting Rental Prices 
-- A data science project for building predictive models for Airbnb prices in Melbourne
+- Leveraging Data for Optimal Pricing Strategies
+
 ---
 
 ## Directory
